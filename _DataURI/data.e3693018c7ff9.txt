@@ -1,0 +1,1 @@
+chrome-extension://ojplelelocihfchkdaebocpankipadmp/lib/pdf-locator-1.0.3.min.js
